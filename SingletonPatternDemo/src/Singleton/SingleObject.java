@@ -1,7 +1,5 @@
 package Singleton;
 
-import java.security.cert.CertificateParsingException;
-
 public class SingleObject {
 
     private static SingleObject instance = null;
