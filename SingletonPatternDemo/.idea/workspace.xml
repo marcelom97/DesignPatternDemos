@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13f14df0-5386-4c43-905c-7ad3675f5efc" name="Default Changelist" comment="" />
+    <list default="true" id="13f14df0-5386-4c43-905c-7ad3675f5efc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,14 +24,16 @@
     <setting file="file://$PROJECT_DIR$/src/Singleton/SingletonPatternDemo.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1SdeMuWKinaYHgaafHGeWzLBQfM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -78,10 +82,28 @@
       <workItem from="1573154749690" duration="1460000" />
       <workItem from="1573244327203" duration="240000" />
       <workItem from="1573244592109" duration="188000" />
+      <workItem from="1573566743866" duration="213000" />
+      <workItem from="1573566998826" duration="176000" />
+      <workItem from="1573567197251" duration="29000" />
+      <workItem from="1573656024897" duration="13000" />
+      <workItem from="1573656079764" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
