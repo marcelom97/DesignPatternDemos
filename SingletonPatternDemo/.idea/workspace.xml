@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f14df0-5386-4c43-905c-7ad3675f5efc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObserverWithText/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithText/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithText/out/production/ObserverWithText/META-INF/ObserverWithText.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +91,7 @@
       <workItem from="1573567197251" duration="29000" />
       <workItem from="1573656024897" duration="13000" />
       <workItem from="1573656079764" duration="78000" />
+      <workItem from="1573921176644" duration="188000" />
     </task>
     <servers />
   </component>

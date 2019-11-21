@@ -8,14 +8,16 @@ public class ObserverFrame extends JFrame implements Observer {
 
     public ObserverFrame() {
         super("Observer Frame");
-        this.setSize(300, 300);
-        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        this.setVisible(true);
-        this.buttonPanel.setLayout(new GridLayout(5, 5));
+
         for (int i = 0; i < buttons.length; i++) {
             this.buttonPanel.add(buttons[i] = new RoundButton("" + i));
         }
         this.add(this.buttonPanel);
+
+        this.setSize(300, 300);
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        this.setVisible(true);
+        this.buttonPanel.setLayout(new GridLayout(5, 5));
     }
 
     @Override
