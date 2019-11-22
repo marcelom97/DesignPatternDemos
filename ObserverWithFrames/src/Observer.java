@@ -1,4 +1,4 @@
 public interface Observer {
 
-    void update(String buttonId);
+    void update(String buttonId, Boolean isClicked);
 }

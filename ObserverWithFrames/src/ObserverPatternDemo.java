@@ -5,6 +5,5 @@ public class ObserverPatternDemo {
         ObserverFrame observerFrame1 = new ObserverFrame();
         observableFrame.attach(observerFrame);
         observableFrame.attach(observerFrame1);
-//        TODO make ti work with button pressed and released
     }
 }

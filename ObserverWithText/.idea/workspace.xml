@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39ff3979-cd7d-42e5-85d4-76eda512bb84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/out/production/ObserverWithFrames/ObservableFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/out/production/ObserverWithFrames/ObservableFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/out/production/ObserverWithFrames/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/out/production/ObserverWithFrames/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/out/production/ObserverWithFrames/ObserverFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/out/production/ObserverWithFrames/ObserverFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/src/ObservableFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/src/ObservableFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/src/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/src/ObserverFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/src/ObserverFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverWithFrames/src/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverWithFrames/src/ObserverPatternDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ObserverWithText/META-INF/ObserverWithText.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObserverWithText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObserverWithText.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CsvReader" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -75,6 +80,7 @@
       <workItem from="1573750228252" duration="2920000" />
       <workItem from="1573911369303" duration="58000" />
       <workItem from="1573917583229" duration="14000" />
+      <workItem from="1574422920228" duration="112000" />
     </task>
     <servers />
   </component>

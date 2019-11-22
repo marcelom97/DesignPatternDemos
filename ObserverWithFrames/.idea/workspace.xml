@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3a0cd073-fcda-44cf-a295-481616f41384" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObservableFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObservableFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObserverFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObserverFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObserverPatternDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DataVisualizationProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ObserverWithText" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunDashboard">
@@ -72,6 +76,7 @@
       <workItem from="1573911264564" duration="100000" />
       <workItem from="1574321730390" duration="687000" />
       <workItem from="1574322510704" duration="3831000" />
+      <workItem from="1574408095313" duration="2676000" />
     </task>
     <servers />
   </component>
