@@ -5,13 +5,13 @@ import java.util.List;
 
 public interface UserDao {
 
-    public List<User> getAllUsers() throws SQLException;
+    List<User> getAllUsers() throws SQLException;
 
-    public User getSpecificUser(int id) throws SQLException;
+    User getSpecificUser(int id) throws SQLException;
 
-    public void updateSpecificUser(int id, String name) throws SQLException;
+    void updateSpecificUser(int id, String name) throws SQLException;
 
-    public void addUser(int id, String firstname, String lastname, String email) throws SQLException;
+    void addUser(int id, String firstname, String lastname, String email) throws SQLException;
 
-    public void deleteUser(int id) throws SQLException;
+    void deleteUser(int id) throws SQLException;
 }

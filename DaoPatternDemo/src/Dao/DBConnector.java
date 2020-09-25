@@ -29,7 +29,9 @@ public class DBConnector {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             this.con = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/test", "root", "marcelo1");
+                "jdbc:mysql://localhost:3306/test?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC",
+                "root",
+                "marcelo1");
             System.out.println("Connection Established");
         } catch (Exception e) {
             e.printStackTrace();

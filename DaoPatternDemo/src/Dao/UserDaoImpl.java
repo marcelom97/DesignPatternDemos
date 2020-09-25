@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class UserDaoImpl implements UserDao {
+
     DBConnector connector = null;
     Connection con;
     private List<User> users;

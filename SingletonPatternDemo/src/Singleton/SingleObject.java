@@ -7,10 +7,10 @@ public class SingleObject {
     private SingleObject() {
     }
 
-    public static SingleObject getSingleObject() {
+    public static SingleObject getInstance() {
         if (SingleObject.instance != null) {
             System.out.println("This is a single object");
-            return null;
+            return instance;
         }
         System.out.println("Single Object created");
         return SingleObject.instance = new SingleObject();
