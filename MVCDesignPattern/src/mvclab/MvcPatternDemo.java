@@ -1,7 +1,6 @@
 package mvclab;
 
 public class MvcPatternDemo {
-
     public static void main(String[] args) {
         User model = retrieveUserFromDatabase();
         Frame window = new Frame();

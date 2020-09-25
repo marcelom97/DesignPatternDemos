@@ -14,8 +14,8 @@ public class UserView {
 
     public void printUserDetails(int id, String name, String email) {
         this.textArea.setText("--id:" + id + "\n" +
-                "--name:" + name + "\n" +
-                "--email:" + email);
+            "--name:" + name + "\n" +
+            "--email:" + email);
     }
 
     public Frame getWindow() {
