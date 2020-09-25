@@ -1,3 +1,3 @@
 public interface Observer {
-    public void update(String buttonId);
+    void update(String buttonId);
 }
