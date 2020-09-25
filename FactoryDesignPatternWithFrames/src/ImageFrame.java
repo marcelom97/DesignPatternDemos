@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class ImageFrame extends JFrame implements Frame {
+
     private JLabel imageIcon = new JLabel(new ImageIcon("factory.jpg"));
 
     @Override
